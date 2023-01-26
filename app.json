@@ -1,43 +1,43 @@
 {
-    "name": "BikashRobot", 
+    "name": "BadnamRobot", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
     "logo": "https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
-            "description": "Input Bot token here",
+            "description": "5940383467:AAGYPvS1GSyQlYpweYTW-uFTuH1HduhrHRs",
             "required": true
         },
         "OWNER_USERNAME": {
-            "description": "Input Owner Username here ( Without @)",
+            "description": "iamyourlove5",
             "required": true
         },
         "SUPPORT_GROUP": {
-            "description": "Input support group username here ( Without @)",
+            "description": "Top_eagle_fighter1",
             "required": true
         },
         "UPDATES_CHANNEL": {
-            "description": "Input updates channel username here ( Without @) ",
+            "description": "badnam_dakku ",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "Input Bot USERNAME here ( Without @)",
+            "description": "badnamchatbot",
             "required": true
         },  
         "BOT_IMAGE": {
-            "description": "Input Bot start pic link here",
+            "description": "https://te.legra.ph/file/65966242b970f9b985718.jpg",
             "required": true
         },       
         "MONGO_URL": {
-            "description": "Input mongo db url here",
+            "description": "mongodb+srv://Adarshrajput08:badnam890123@cluster0.igfgnau.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "API_ID": {
-            "description": "Input api id here",
+            "description": "16074195",
             "required": true
         },
         "API_HASH": {
-            "description": "Input api hash here",
+            "description": "e1321976377b14e0293719bae654ad87",
             "required": true
         }
     },
