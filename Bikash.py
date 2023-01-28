@@ -7,15 +7,15 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "none") 
-API_HASH = os.environ.get("API_HASH", "none") 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "none") 
-MONGO_URL = os.environ.get("MONGO_URL", "none")
-BOT_IMAGE = os.environ.get("BOT_IMAGE", "none")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "none")
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "none")
-SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "none")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "none")
+API_ID = os.environ.get("API_ID", "24585748") 
+API_HASH = os.environ.get("API_HASH", "7028654784d762563b9c3ca6f370cefc") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5938671613:AAGygPn2eM8wRO3udY-NJD68iN8TLezn98s") 
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://djdakku1:67adarshkumar56@cluster0.mp7gy2m.mongodb.net/?retryWrites=true&w=majority")
+BOT_IMAGE = os.environ.get("BOT_IMAGE", "https://te.legra.ph/file/343281c60bb7c32e07ad5.jpg")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "Dj_badnam_bot")
+OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "djbadnam")
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "Top_eagle_fighter1")
+UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "badnam_dakku")
 
 
 bot = Client(
